@@ -1,7 +1,7 @@
 //
 //
 // main() {
-//   //*null time error (nullable type error check operator)
+//   //*null time error (nullable type error check operator)(Explicity caheck)
 //
 //   //*1/condition programin(operator):
 //   //*a/int: error check:
@@ -208,57 +208,4 @@
 //   double division = value/value1/value2;
 //   print(  division);
 // }*/
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+

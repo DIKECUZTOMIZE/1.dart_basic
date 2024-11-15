@@ -1,7 +1,7 @@
 //   import 'dart:ffi';
 //  import 'dart:io';
 // // data type variable:
-// //  1/ intial variable (do not use same variable)
+//   // 1/ intial variable (do not use same variable)
 //
 // main (){
 //
