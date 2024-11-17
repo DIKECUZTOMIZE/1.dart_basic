@@ -1,13 +1,6 @@
- void main(){
+void main() {
+int marks = 85;
 
-  String? name;
-
-  if (name !=null){
-    print(name);
-  }else{
-    print('name is null');
-  }
-
-
-
- }
+String grade = marks >= 90 ? "A+" : marks >= 75 ? "A" : "B";
+print("Grade: $grade");
+}
